@@ -1,0 +1,4 @@
+{
+ :org.httpkit.server/configuration {:port 9000}
+ :self-service.services.hydra/configuration {:hydra-url "http://0.0.0.0:9000"}
+ }
